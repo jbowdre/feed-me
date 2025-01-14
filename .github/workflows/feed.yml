@@ -27,7 +27,12 @@ jobs:
         run: go install github.com/TheBigRoomXXL/tinyfeed@latest
 
       - name: Fetch feeds
-        run: tinyfeed --input feeds.txt --output public/index.html
+        run: |
+          tinyfeed --input feeds.txt \
+          --name "Feed Me" \
+          --description "What's on the menu today?" \
+          --limit 100 \
+          --output public/index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
