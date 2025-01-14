@@ -49,10 +49,11 @@ https://journal.paoloamoroso.com/feed/
 https://jvns.ca/atom.xml
 https://kevingimbel.de/feed
 https://kmcd.dev/posts/index.xml
+https://labs.watchtowr.com/rss/
 https://lewisdale.dev/rss.xml
 https://localghost.dev/articles.xml
-https://lovergne.dev/rss.xml
 https://louplummer.lol/feed.atom
+https://lovergne.dev/rss.xml
 https://lubieniebieski.pl/feed.xml
 https://lwgrs.bearblog.dev/feed/
 https://matduggan.com/rss/
