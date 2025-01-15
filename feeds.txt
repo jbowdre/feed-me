@@ -37,6 +37,7 @@ https://frills.dev/rss.xml
 https://gabz.blog/posts_feed
 https://garrido.io/index.xml
 https://gkeenan.co/avgb/feed.xml
+https://gobino.be/feed/
 https://grahamhelton.com/blog/index.xml
 https://hamvocke.com/feed.xml
 https://herman.bearblog.dev/feed/
@@ -97,7 +98,6 @@ https://weblog.anniegreens.lol/feed.json
 https://world.hey.com/corlin/feed.atom
 https://www.fastmail.com/blog/feed.xml
 https://www.fromjason.xyz/feed/feed.json
-https://www.gobino.be/feed/
 https://www.hashicorp.com/blog/feed.xml
 https://www.jeffgeerling.com/blog.xml
 https://www.joshuamlee.com/posts/index.xml
