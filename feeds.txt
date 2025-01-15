@@ -81,6 +81,7 @@ https://selfh.st/rss/
 https://simplex.chat/feed.rss
 https://sive.rs/en.atom
 https://snikket.org/blog/index.xml
+https://soatok.blog/feed/
 https://srsbsns.lol/feed/
 https://stfn.pl/rss.xml
 https://stuffandthings.lol/feed/feed.xml
