@@ -31,6 +31,7 @@ jobs:
           tinyfeed --input feeds.txt \
           --name "Feed Me" \
           --description "What's on the menu today?" \
+          --stylesheet "https://res.jbowdre.lol/css/tinyfeed-catppuccin-mocha.css" \
           --output public/index.html
 
       - name: Deploy to GitHub Pages
