@@ -30,8 +30,6 @@ jobs:
             ~/.cache/go-build
             ~/go/pkg/mod
           key: ${{ runner.os }}-go
-          restore-keys: |
-            ${{ runner.os }}-go-
 
       - name: Install tinyfeed
         run: go install github.com/TheBigRoomXXL/tinyfeed@latest
