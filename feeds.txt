@@ -8,6 +8,7 @@ https://adactio.com/journal/rss
 https://alexandrawolfe.ca/feed/
 https://anniemueller.com/posts_feed
 https://austinross.xyz/rss.xml
+https://avas.bearblog.dev/feed/
 https://bacardi55.io/posts/index.xml
 https://bendaubney.com/feed/
 https://birming.com/feed/
