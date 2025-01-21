@@ -76,6 +76,7 @@ https://pluralistic.net/feed/
 https://potch.me/rss.xml
 https://rknight.me/subscribe/posts/rss.xml
 https://rscottjones.com/feed/
+https://rubenerd.com/feed/
 https://runtimeterror.dev/feed.xml
 https://saltproject.io/blog/index.xml
 https://seirdy.one/posts/atom.xml
