@@ -12,6 +12,7 @@ https://avas.bearblog.dev/feed/
 https://bacardi55.io/posts/index.xml
 https://bendaubney.com/feed/
 https://birming.com/feed/
+https://blakewatson.com/feed.xml
 https://blog.autumnrain.cc/rss/
 https://blog.binarydigit.city/posts_feed
 https://blog.flipper.net/rss/
