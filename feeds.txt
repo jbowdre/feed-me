@@ -23,7 +23,6 @@ https://briangreen.net/rss.xml
 https://bunny.net/blog/rss/
 https://cabel.com/feed/
 https://citationneeded.news/rss/
-https://coleb.blog/posts_feed
 https://cool-as-heck.blog/index.xml
 https://coryd.dev/feeds/posts.xml
 https://crankysec.com/feed/feed.xml
