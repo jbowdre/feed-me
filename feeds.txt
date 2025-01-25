@@ -75,6 +75,7 @@ https://opentofu.org/blog/rss.xml
 https://pimoore.ca/feed.xml
 https://pluralistic.net/feed/
 https://potch.me/rss.xml
+https://probably.blog/atom.xml
 https://rknight.me/subscribe/posts/rss.xml
 https://rscottjones.com/feed/
 https://rubenerd.com/feed/
