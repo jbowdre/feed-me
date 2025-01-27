@@ -90,6 +90,7 @@ https://soatok.blog/feed/
 https://srsbsns.lol/feed/
 https://stfn.pl/rss.xml
 https://stuffandthings.lol/feed/feed.xml
+https://sylvia.bearblog.dev/feed/
 https://tailscale.com/blog/index.xml
 https://tailscale.dev/feed.xml
 https://that-bloke.com/feed/
