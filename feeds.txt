@@ -24,6 +24,7 @@ https://bunny.net/blog/rss/
 https://cabel.com/feed/
 https://citationneeded.news/rss/
 https://cool-as-heck.blog/index.xml
+https://copingmechanism.com/index.xml
 https://coryd.dev/feeds/posts.xml
 https://coyotetracks.org/blog/atom.xml
 https://crankysec.com/feed/feed.xml
