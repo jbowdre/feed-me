@@ -27,6 +27,7 @@ https://cool-as-heck.blog/index.xml
 https://copingmechanism.com/index.xml
 https://coryd.dev/feeds/posts.xml
 https://coyotetracks.org/blog/atom.xml
+https://craney.uk/posts_feed
 https://crankysec.com/feed/feed.xml
 https://css-tip.com/feed/feed.xml
 https://cyberwizrdy.bearblog.dev/feed/
