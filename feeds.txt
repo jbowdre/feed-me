@@ -24,7 +24,6 @@ https://bunny.net/blog/rss/
 https://cabel.com/feed/
 https://citationneeded.news/rss/
 https://cool-as-heck.blog/index.xml
-https://copingmechanism.com/index.xml
 https://coryd.dev/feeds/posts.xml
 https://coyotetracks.org/blog/atom.xml
 https://craney.uk/posts_feed
@@ -89,6 +88,7 @@ https://simplex.chat/feed.rss
 https://sive.rs/en.atom
 https://snikket.org/blog/index.xml
 https://soatok.blog/feed/
+https://spritely.institute/feed.xml
 https://srsbsns.lol/feed/
 https://stfn.pl/rss.xml
 https://stuffandthings.lol/feed/feed.xml
