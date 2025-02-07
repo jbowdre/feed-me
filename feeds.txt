@@ -34,6 +34,7 @@ https://davekiss.com/blog.rss
 https://den.dev/index.xml
 https://doublepulsar.com/feed
 https://edfishjr.com/feed/
+https://ericmigi.com/rss.xml
 https://f-droid.org/feed.xml
 https://feeds.feedburner.com/TroyHunt
 https://frills.dev/rss.xml
