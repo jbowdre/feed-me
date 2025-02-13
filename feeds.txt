@@ -11,6 +11,7 @@ https://austinross.xyz/rss.xml
 https://avas.bearblog.dev/feed/
 https://bacardi55.io/posts/index.xml
 https://bendaubney.com/feed/
+https://binarydigit.city/feed/
 https://birming.com/feed/
 https://blakewatson.com/feed.xml
 https://blog.autumnrain.cc/rss/
