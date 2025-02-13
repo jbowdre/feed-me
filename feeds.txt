@@ -14,7 +14,6 @@ https://bendaubney.com/feed/
 https://binarydigit.city/feed/
 https://birming.com/feed/
 https://blakewatson.com/feed.xml
-https://blog.autumnrain.cc/rss/
 https://blog.binarydigit.city/posts_feed
 https://blog.flipper.net/rss/
 https://blog.mojeek.com/atom.xml
@@ -38,6 +37,7 @@ https://edfishjr.com/feed/
 https://ericmigi.com/rss.xml
 https://f-droid.org/feed.xml
 https://feeds.feedburner.com/TroyHunt
+https://foolmoon.autumnrain.cc/rss/
 https://frills.dev/rss.xml
 https://gabz.blog/posts_feed
 https://garrido.io/index.xml
@@ -97,7 +97,6 @@ https://stuffandthings.lol/feed/feed.xml
 https://sylvia.bearblog.dev/feed/
 https://tailscale.com/blog/index.xml
 https://tailscale.dev/feed.xml
-https://that-bloke.com/feed/
 https://thedent.net/feed.atom
 https://thomasrigby.com/feed.xml
 https://til.computer/posts_feed
