@@ -15,6 +15,7 @@ https://binarydigit.city/feed/
 https://birming.com/feed/
 https://blakewatson.com/feed.xml
 https://blog.binarydigit.city/posts_feed
+https://blog.elenarossini.com/rss/
 https://blog.flipper.net/rss/
 https://blog.mojeek.com/atom.xml
 https://boehs.org/in/blog.xml
