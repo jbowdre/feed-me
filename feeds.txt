@@ -69,6 +69,7 @@ https://medium.com/feed/hashicorp-engineering
 https://melkat.blog/rss.xml
 https://mihobu.lol/rss.xml
 https://mitchellh.com/feed.xml
+https://netigen.com/rss
 https://newsletter.goodtechthings.com/feed
 https://notes.jeddacp.com/feed/
 https://notes.krueger.ink/feed/
