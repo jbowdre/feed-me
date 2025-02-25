@@ -19,7 +19,6 @@ https://blog.elenarossini.com/rss/
 https://blog.flipper.net/rss/
 https://blog.mojeek.com/atom.xml
 https://boehs.org/in/blog.xml
-https://brandons-journal.com/feed/
 https://briangreen.net/rss.xml
 https://bunny.net/blog/rss/
 https://cabel.com/feed/
