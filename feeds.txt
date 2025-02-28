@@ -110,6 +110,7 @@ https://www.fastmail.com/blog/feed.xml
 https://www.fromjason.xyz/feed/feed.json
 https://www.hashicorp.com/blog/feed.xml
 https://www.jeffgeerling.com/blog.xml
+https://www.joanwestenberg.com/rss/
 https://www.joshuamlee.com/posts/index.xml
 https://www.joshwcomeau.com/rss.xml
 https://www.lastweekinaws.com/feed/
