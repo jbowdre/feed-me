@@ -114,6 +114,7 @@ https://www.joanwestenberg.com/rss/
 https://www.joshuamlee.com/posts/index.xml
 https://www.joshwcomeau.com/rss.xml
 https://www.lastweekinaws.com/feed/
+https://www.splitbrain.org/feed/blog
 https://www.virtualizationhowto.com/feed/
 https://www.wheresyoured.at/rss/
 https://yordi.me/feed/
